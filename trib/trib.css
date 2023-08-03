@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full{
+    background-color: rgb(218, 218, 218, 0.5);
+    border-radius: 5px;
+    padding: 15px;
+    margin: 30px 10px;
+}
+.image{
+    background-color: rgb(255, 255, 255);
+}
+.center{
+    text-align: center;
+}
+.content ul{
+    padding: 34px;
+    max-width: 500px;
+    margin: auto;
+}
+p{
+    padding: 25px;
+    max-width: 560px;
+    margin: auto;
+}
