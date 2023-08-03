@@ -5,16 +5,14 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    height: 95vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    padding: 10%;
   }
   section {
-    margin: auto;
-    width: 400px;
+    min-width: 450px;
   }
-
+  
   h1 {
     text-align: center;
     padding: 20px;
